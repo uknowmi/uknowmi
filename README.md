@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @uknowmi
-- 👀 I’m interested in App Developement and Bot Developement
-- 🌱 I’m currently learning Android Studio and Python
+- 👋 Hi, I’m Rudraansh 
+- 👀 I’m interested in Data Science and App Development
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 
 <!---
